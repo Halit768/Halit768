@@ -1,7 +1,5 @@
-### Hi there 👋
+### 👋Merhaba! Ben Halit Kenger 🚀
 
-
-👋 Merhaba! Ben Halit Kenger 🚀
 
 🌐 Web geliştirme ve tasarım konularında tutkulu bir geliştiriciyim.
 
